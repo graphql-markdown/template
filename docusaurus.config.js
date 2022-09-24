@@ -55,7 +55,7 @@ const config = {
       footer: {
         style: "light",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} GraphQL-Markdown, Inc. Built with Docusaurus.`
+        copyright: `Copyright © ${new Date().getFullYear()} My Website, Inc. Built with GraphQL-Markdown & Docusaurus.`
       },
       prism: {
         theme: lightCodeTheme,

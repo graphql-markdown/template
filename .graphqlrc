@@ -1,7 +1,7 @@
-schema: 'https://api.graphql.jobs'
+schema: 'https://api.react-finland.fi/graphql'
 extensions:
   graphql-markdown:
-    rootPath: '/docs'
+    rootPath: './docs'
     baseURL: '.'
     homepage: 'static/index.md'
     loaders:

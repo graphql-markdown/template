@@ -1,5 +1,5 @@
 {
-  "name": "graphql-markdown-demo",
+  "name": "graphql-markdown-template",
   "homepage": "https://graphql-markdown.github.io",
   "version": "0.0.0",
   "private": true,
@@ -25,13 +25,13 @@
     "doc": "docusaurus graphql-to-doc"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.0",
-    "@docusaurus/preset-classic": "^2.4.0",
-    "@graphql-markdown/docusaurus": "^1.18.0",
-    "@graphql-tools/url-loader": "^7.17.18",
+    "@docusaurus/core": "^2.4.1",
+    "@docusaurus/preset-classic": "^2.4.1",
+    "@graphql-markdown/docusaurus": "^1.20.0",
+    "@graphql-tools/url-loader": "^8.0.0",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.2.1",
-    "graphql": "^16.6.0",
+    "graphql": "^16.7.1",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
@@ -48,6 +48,6 @@
       "last 1 safari version"
     ]
   },
-  "description": "GraphQL-Markdown demonstration",
+  "description": "GraphQL-Markdown template for Docusaurus",
   "keywords": []
 }

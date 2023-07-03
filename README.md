@@ -4,13 +4,13 @@ Docusaurus template for [GraphQL-Markdown](https://graphql-markdown.github.io).
 
 ## Quick start
 
-1. Install
+**1. Install**
 
 ```shell
 npm init docusaurus my-website https://github.com/graphql-markdown/template.git
 ```
 
-2. Configure
+**2. Configure**
 
 Update settings in `.graphqlrc` (see [documentation](https://graphql-markdown.github.io/docs/configuration#graphql-config)).
 
@@ -28,13 +28,13 @@ extensions:
       deprecated: 'group'
 ```
 
-2. Generate
+**3. Generate**
 
 ```shell
-npm run docusaurus graphql-to-doc
+npm run doc
 ```
 
-3. Start
+**4. Start**
 
 ```shell
 npm start

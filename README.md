@@ -18,13 +18,13 @@ Update settings in `.graphqlrc` (see [documentation](https://graphql-markdown.gi
 schema: 'https://api.react-finland.fi/graphql'
 extensions:
   graphql-markdown:
-    rootPath: './docs'
     baseURL: '.'
     homepage: 'static/index.md'
     loaders:
       UrlLoader: '@graphql-tools/url-loader'
     docOptions:
       pagination: false
+    printTypeOptions:
       deprecated: 'group'
 ```
 

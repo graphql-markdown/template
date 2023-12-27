@@ -20,7 +20,9 @@ extensions:
     loaders:
       UrlLoader: '@graphql-tools/url-loader'
     docOptions:
-      pagination: false
+      frontMatter:
+        pagination_next: null
+        pagination_prev: null
     printTypeOptions:
       deprecated: 'group'
 ```

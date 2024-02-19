@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "graphql-markdown", // Usually your GitHub org/user name.
   projectName: "graphql-markdown-template", // Usually your repo name.
-  plugins: ["@graphql-markdown/docusaurus"],
+  plugins: ["@graphql-markdown/docusaurus"], // See .graphqlrc for configuration
   presets: [
     [
       "classic",

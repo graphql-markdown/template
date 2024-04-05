@@ -1,6 +1,6 @@
 # GraphQL-Markdown template
 
-Docusaurus template for [GraphQL-Markdown](https://graphql-markdown.github.io).
+Docusaurus template for [GraphQL-Markdown](https://graphql-markdown.dev).
 
 ## Quick start
 
@@ -12,7 +12,7 @@ npm init docusaurus my-website https://github.com/graphql-markdown/template.git
 
 **2. Configure**
 
-Update settings in `.graphqlrc` (see [documentation](https://graphql-markdown.github.io/docs/configuration#graphql-config)).
+Update settings in `.graphqlrc` (see [documentation](https://graphql-markdown.dev/docs/configuration#graphql-config)).
 
 ```yaml
 schema: 'https://api.react-finland.fi/graphql'

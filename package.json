@@ -49,5 +49,8 @@
     ]
   },
   "description": "GraphQL-Markdown template for Docusaurus",
-  "keywords": []
+  "keywords": [],
+  "engines": {
+    "node": ">=20.0"
+  }
 }

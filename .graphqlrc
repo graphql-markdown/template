@@ -1,10 +1,13 @@
-schema: 'https://api.react-finland.fi/graphql'
+schema: 'https://countries.trevorblades.com/graphql'
 extensions:
   graphql-markdown:
     baseURL: '.'
     homepage: 'static/index.md'
     loaders:
-      UrlLoader: '@graphql-tools/url-loader'
+      UrlLoader: 
+        module: '@graphql-tools/url-loader'
+        options:
+          method: 'POST'
     docOptions:
       frontMatter:
         pagination_next: null

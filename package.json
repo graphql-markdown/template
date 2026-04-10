@@ -52,5 +52,8 @@
   "keywords": [],
   "engines": {
     "node": ">=20.0"
+  },
+  "overrides": {
+    "webpackbar": "^7.0.0"
   }
 }

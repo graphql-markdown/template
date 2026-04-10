@@ -11,8 +11,8 @@ const config = {
   tagline: "GraphQL-Markdown is cool",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
+  trailingSlash: false,
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "graphql-markdown", // Usually your GitHub org/user name.
   projectName: "graphql-markdown-template", // Usually your repo name.

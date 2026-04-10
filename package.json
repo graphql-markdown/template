@@ -1,7 +1,7 @@
 {
   "name": "graphql-markdown-template",
   "homepage": "https://graphql-markdown.github.io",
-  "version": "1.32.0",
+  "version": "1.34.0",
   "private": true,
   "bugs": {
     "url": "https://github.com/graphql-markdown/graphql-markdown/issues"
@@ -27,7 +27,7 @@
   "dependencies": {
     "@docusaurus/core": "^3.10.0",
     "@docusaurus/preset-classic": "^3.10.0",
-    "@graphql-markdown/docusaurus": "^1.33.0",
+    "@graphql-markdown/docusaurus": "^1.34.0",
     "@graphql-tools/url-loader": "^9.1.1",
     "@mdx-js/react": "^3.1.1",
     "graphql": "^16.13.2",
